@@ -1,0 +1,18 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Desktop/,$HOME/Documents/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Documents/,file:$HOME/Desktop/,file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA68AAAP9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0=HDMI-1-0
+eDP-1 HDMI-1-0 Height 1920x1080 HDMI-1-0=1058
+eDP-1 HDMI-1-0 Width 1920x1080 HDMI-1-0=943
+eDP-1 HDMI-1-0 XPosition 1920x1080 HDMI-1-0=11
+eDP-1 HDMI-1-0 YPosition 1920x1080 HDMI-1-0=11
+splitterSizes=626,313

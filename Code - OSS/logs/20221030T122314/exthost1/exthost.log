@@ -1,0 +1,14 @@
+[2022-10-30 12:23:22.998] [exthost] [info] Extension host with pid 1910 started
+[2022-10-30 12:23:22.998] [exthost] [info] Skipping acquiring lock for /home/varun/.config/Code - OSS/User/workspaceStorage/e03a8fe0fa2f1354b7504b594996c0eb.
+[2022-10-30 12:23:23.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-30 12:23:23.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-30 12:23:23.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-30 12:23:23.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-30 12:23:23.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-30 12:23:24.497] [exthost] [info] Eager extensions activated
+[2022-10-30 12:23:24.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-30 12:23:24.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-30 12:23:38.015] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+[2022-10-30 12:23:39.311] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+[2022-10-30 23:05:57.383] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-30 23:05:57.449] [exthost] [info] Extension host with pid 1910 exiting with code 0

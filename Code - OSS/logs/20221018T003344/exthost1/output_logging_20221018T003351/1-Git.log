@@ -1,0 +1,70 @@
+[2022-10-17T19:03:52.388Z] Log level: Info
+[2022-10-17T19:03:52.389Z] [info] Validating found git in: git
+[2022-10-17T19:03:52.883Z] [info] Using git 2.38.0 from git
+[2022-10-17T19:03:53.493Z] > git rev-parse --show-toplevel [602ms]
+[2022-10-17T19:03:53.493Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:03:53.510Z] > git rev-parse --show-toplevel [11ms]
+[2022-10-17T19:03:53.510Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:03:53.517Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-17T19:03:53.517Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:03:53.526Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-17T19:03:53.526Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:03:53.534Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-17T19:03:53.534Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:03:55.603Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-17T19:03:55.603Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-17T19:45:00.852Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-17T19:45:00.859Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-10-17T19:45:00.868Z] [info] Open repository: /home/varun/Desktop/pinaca/tamilTranscriptions/ctcdecode
+[2022-10-17T19:45:00.899Z] > git status -z -uall [23ms]
+[2022-10-17T19:45:00.906Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-17T19:45:00.921Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+[2022-10-17T19:45:00.937Z] > git remote --verbose [2ms]
+[2022-10-17T19:45:00.937Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-10-17T19:45:00.952Z] > git config --get commit.template [7ms]
+[2022-10-17T19:45:00.960Z] > git status -z -uall [2ms]
+[2022-10-17T19:45:00.970Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-17T19:45:00.974Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-10-17T19:45:00.984Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-17T19:45:00.984Z] > git remote --verbose [1ms]
+[2022-10-17T19:45:00.990Z] > git config --get commit.template [0ms]
+[2022-10-17T19:45:01.426Z] > git check-ignore -v -z --stdin [1ms]
+[2022-10-17T20:44:11.723Z] > git status -z -uall [964ms]
+[2022-10-17T20:44:19.424Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-17T20:44:19.429Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-10-17T20:44:19.474Z] > git remote --verbose [32ms]
+[2022-10-17T20:44:19.491Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [56ms]
+[2022-10-17T20:44:19.671Z] > git config --get commit.template [2ms]
+[2022-10-17T20:44:20.677Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-17T20:44:20.684Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-10-17T20:44:20.686Z] [info] Open repository: /home/varun/Desktop/pinaca/tamilTranscriptions/ctcdecode/third_party/kenlm
+[2022-10-17T20:44:20.698Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-17T20:44:20.705Z] > git status -z -uall [13ms]
+[2022-10-17T20:44:20.711Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-10-17T20:44:20.713Z] [info] Open repository: /home/varun/Desktop/pinaca/tamilTranscriptions/ctcdecode/third_party/ThreadPool
+[2022-10-17T20:44:20.719Z] > git symbolic-ref --short HEAD [9ms]
+[2022-10-17T20:44:20.719Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-17T20:44:20.725Z] > git status -z -uall [7ms]
+[2022-10-17T20:44:20.731Z] > git rev-parse HEAD [6ms]
+[2022-10-17T20:44:20.742Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-17T20:44:20.743Z] > git symbolic-ref --short HEAD [12ms]
+[2022-10-17T20:44:20.743Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-17T20:44:20.749Z] > git remote --verbose [7ms]
+[2022-10-17T20:44:20.757Z] > git rev-parse HEAD [9ms]
+[2022-10-17T20:44:20.769Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-17T20:44:20.769Z] > git config --get commit.template [12ms]
+[2022-10-17T20:44:20.770Z] > git remote --verbose [2ms]
+[2022-10-17T20:44:20.778Z] > git config --get commit.template [1ms]
+[2022-10-17T20:44:21.466Z] > git check-ignore -v -z --stdin [1ms]
+[2022-10-17T20:44:24.869Z] > git status -z -uall [189ms]
+[2022-10-17T20:44:24.870Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-17T20:44:24.877Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-10-17T20:44:24.888Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-17T20:44:24.889Z] > git remote --verbose [2ms]
+[2022-10-17T20:44:25.007Z] > git config --get commit.template [4ms]

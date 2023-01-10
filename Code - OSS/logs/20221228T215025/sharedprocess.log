@@ -1,0 +1,4 @@
+2022-12-28 21:50:32.212 [info] Started initializing default profile extensions in extensions installation folder. file:///home/varun/.vscode-oss/extensions
+2022-12-28 21:50:32.395 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/varun/.vscode-oss/extensions
+2022-12-28 21:50:32.397 [warning] Failed to create default profile extensions initialize marker in extensions installation folder. file:///home/varun/.vscode-oss/extensions Unable to create file '/home/varun/.vscode-oss/extensions/.init-default-profile-extensions' that already exists when overwrite flag is not set
+2022-12-28 21:50:32.689 [info] Starting worker process with pid 2358 (type: fileWatcher, window: 1).

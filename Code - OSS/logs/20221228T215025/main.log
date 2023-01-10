@@ -1,0 +1,4 @@
+2022-12-28 21:50:26.582 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-28 21:50:32.106 [info] Starting extension host with pid 2333 (fork() took 12 ms).
+2022-12-28 21:50:35.465 [info] Waiting for extension host with pid 2333 to exit.
+2022-12-28 21:50:35.470 [info] Extension host with pid 2333 exited with code: 0, signal: null.

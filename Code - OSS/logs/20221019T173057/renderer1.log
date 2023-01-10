@@ -1,0 +1,8 @@
+[2022-10-19 17:31:11.809] [renderer1] [error] Server returned 502: Error: Server returned 502
+    at b (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:635:24496)
+    at G.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:813:223659)
+    at async G.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:813:220636)
+    at async ae (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:813:219606)
+    at async G.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:813:219846)
+    at async Mo.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3217:15078)
+    at async P.promptRecommendedExtensionForFileExtension (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1991:23052)

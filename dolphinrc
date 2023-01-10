@@ -1,0 +1,35 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Documents/config/,$HOME/Desktop/Notes/,$HOME/Desktop/pandas/,/run/media/varun/6829-21F4/,$HOME/Software/,$HOME/,/run/media/varun/6829-21F4/OnePiece/,$HOME/Desktop/pinaca/Transcription/common_voice/,$HOME/Desktop/,$HOME/Desktop/pinaca/tamilTranscriptions/
+eDP-1 HDMI-1-0 Height 1920x1080 HDMI-1-0=560
+eDP-1 HDMI-1-0 Height 1920x1080 eDP-1=560
+eDP-1 HDMI-1-0 Width 1920x1080 HDMI-1-0=1272
+eDP-1 HDMI-1-0 Width 1920x1080 eDP-1=1272
+eDP-1 Height 1920x1080=560
+eDP-1 Width 1920x1080=1272
+
+[General]
+Version=202
+ViewPropsTimestamp=2022,10,6,21,30,26.072
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME/Documents/config,file:$HOME/Desktop/pandas,file:$HOME/Desktop/pinaca/Transcription/common_voice,file:$HOME/Desktop/pinaca/tamilTranscriptions,file:$HOME/Desktop/pinaca/tamilTranscriptions/Ngram,file:$HOME/Desktop/audio_datasets/Tamil/OpenSlr/female,file:$HOME/Desktop/audio_datasets/Tamil/OpenSlr/male,file:$HOME/Desktop/dtfmToneDecoder
+Recent URLs[$e]=file:$HOME/Desktop/pinaca/,file:$HOME/Desktop/,file:$HOME/Downloads/,file:$HOME/Desktop/pinaca/Transcription/common_voice/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Software/,file:$HOME/Desktop/pandas/,file:$HOME/Desktop/Notes/,file:$HOME/Documents/config/,file:///run/media/varun/One Touch/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 HDMI-1-0 Height 1920x1080 HDMI-1-0=458
+eDP-1 HDMI-1-0 Width 1920x1080 HDMI-1-0=406
+eDP-1 Height 1920x1080 eDP-1=458
+eDP-1 Width 1920x1080 eDP-1=399
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Search]
+Location=Everywhere

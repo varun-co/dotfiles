@@ -1,0 +1,4 @@
+[2022-10-23 14:48:24.052] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-23 14:48:29.075] [main] [info] Starting extension host with pid 9913 (fork() took 10 ms).
+[2022-10-25 00:44:48.569] [main] [info] Waiting for extension host with pid 9913 to exit.
+[2022-10-25 00:44:49.012] [main] [info] Extension host with pid 9913 exited with code: 0, signal: null.

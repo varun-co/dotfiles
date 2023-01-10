@@ -1,0 +1,44 @@
+[2022-10-19T12:01:04.381Z] Log level: Info
+[2022-10-19T12:01:04.382Z] [info] Validating found git in: git
+[2022-10-19T12:01:04.596Z] [info] Using git 2.38.0 from git
+[2022-10-19T12:01:04.616Z] > git rev-parse --show-toplevel [9ms]
+[2022-10-19T12:01:04.616Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:04.625Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-19T12:01:04.625Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.038Z] > git rev-parse --show-toplevel [408ms]
+[2022-10-19T12:01:05.038Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.054Z] > git rev-parse --show-toplevel [9ms]
+[2022-10-19T12:01:05.054Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.174Z] > git rev-parse --show-toplevel [113ms]
+[2022-10-19T12:01:05.180Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-10-19T12:01:05.191Z] [info] Open repository: /home/varun/Desktop/pinaca/tamilTranscriptions/ctcdecode
+[2022-10-19T12:01:05.203Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-19T12:01:05.203Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.209Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-19T12:01:05.209Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.215Z] > git rev-parse --show-toplevel [1ms]
+[2022-10-19T12:01:05.215Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:01:05.755Z] > git check-ignore -v -z --stdin [26ms]
+[2022-10-19T12:01:08.565Z] > git status -z -uall [3367ms]
+[2022-10-19T12:01:09.260Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-19T12:01:09.260Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T12:51:20.429Z] > git rev-parse --show-toplevel [203ms]
+[2022-10-19T12:51:20.429Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T13:21:08.175Z] > git rev-parse --show-toplevel [38ms]
+[2022-10-19T13:21:08.175Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T13:24:16.800Z] > git rev-parse --show-toplevel [57ms]
+[2022-10-19T13:24:16.800Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-19T13:24:56.723Z] > git rev-parse --show-toplevel [9ms]
+[2022-10-19T13:24:56.723Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

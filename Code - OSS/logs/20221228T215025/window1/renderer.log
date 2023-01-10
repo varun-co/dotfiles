@@ -1,0 +1,4 @@
+2022-12-28 21:50:30.886 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/varun/test.py","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2022-12-28 21:50:32.154 [info] Started initializing default profile extensions in extensions installation folder. file:///home/varun/.vscode-oss/extensions
+2022-12-28 21:50:32.317 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/varun/.vscode-oss/extensions
+2022-12-28 21:50:35.126 [info] [perf] Render performance baseline is 53ms

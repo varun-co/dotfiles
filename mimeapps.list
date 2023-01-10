@@ -1,0 +1,6 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-GUH2U1.desktop
+x-scheme-handler/etcher=balena-etcher.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-GUH2U1.desktop;

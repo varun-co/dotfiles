@@ -1,0 +1,83 @@
+[file:///etc/X11/xorg.conf.d/20-nvidia.conf]
+Bookmarks=
+Checksum=e0b9806378a3ffc4cb4f638b2efd4fdcbd576dee
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,17,18,38,9.306
+URL=file:///etc/X11/xorg.conf.d/20-nvidia.conf
+
+[file:///etc/mkinitcpio.conf]
+Bookmarks=
+Checksum=34f44ff17b889ea34e563b467bbecbe5f16afcb2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,17,18,41,1.921
+URL=file:///etc/mkinitcpio.conf
+
+[file:///etc/pacman.d/hooks/nvidia.hook]
+Bookmarks=
+Checksum=d7c1cc8f9b798df58ac006408ea4a5b7cfc37208
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,17,18,36,19.232
+URL=file:///etc/pacman.d/hooks/nvidia.hook
+
+[file:///home/varun/Desktop/pinaca/composeLetters/tamil/letters.csv]
+Bookmarks=
+Checksum=6c226780e3f5a118181d2b0f0990084c02a216bf
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,11,11,13,8,34.977
+URL=file:///home/varun/Desktop/pinaca/composeLetters/tamil/letters.csv
+
+[file:///home/varun/nifsa.py]
+Bookmarks=
+Checksum=69939864bb8c9585b06676913c0dfe782dde6dcf
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2022,10,13,14,2,1.432
+URL=file:///home/varun/nifsa.py
+
+[file:///home/varun/test.txt]
+Bookmarks=
+Checksum=5999fcd070bf1aec65ac8b9fbfe1dd033afb59f2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,11,12,17,27,43.34
+URL=file:///home/varun/test.txt
+
+[file:///mkinitcpio.conf]
+Bookmarks=
+Checksum=d0bb0cf435aa0b8de27623b6c948a04a37bf888f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,17,18,41,1.921
+URL=file:///mkinitcpio.conf
